@@ -1,8 +1,6 @@
 /*
   Stepper Motor Test
-  stepper-test01.ino
-  Uses MA860H or similar Stepper Driver Unit
-  Has speed control & reverse switch
+  with 9-42V DC Microstep driver
   
 */
 #include <Arduino.h>
