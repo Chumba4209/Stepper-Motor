@@ -2,7 +2,7 @@
 #include <AccelStepper.h>
 
 // Define stepper motor (Driver mode: step pin 7, direction pin 6)
-AccelStepper stepper(1, 7, 6);
+AccelStepper stepper(1, 9, 10 );
 
 // Pin definitions
 const int JOYSTICK_X = A0;      // Joystick X-axis (horizontal)
